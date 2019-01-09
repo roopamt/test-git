@@ -1,1 +1,2 @@
 Testing the GIT with dummy file
+Adding an additional line
